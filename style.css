@@ -1,0 +1,270 @@
+html{
+    font-size: 62.5%
+}
+body{
+    background-color: black;
+}
+.container{
+    width:100% ;
+    height: 13rem;
+    background-color: black;
+    display: flex;
+    align-items:center;
+    justify-content:space-between ;
+}
+.logo{
+    width: 18rem;
+}
+#navbar li{
+    list-style-type: none;
+    color: white;
+    font-size: 2rem;
+}
+#navbar li:hover{
+    color: red;
+    cursor: pointer;
+}
+#navbar ol{
+    display: flex;
+    gap: 7rem
+}
+#get{
+    border: 1px solid white;
+    padding: 1.5rem 2rem;
+    border-radius: 3rem;
+}
+#get:hover{
+    color: red;
+    cursor: pointer;
+}
+#order{
+    border:1px solid white ;
+    padding:1.5rem 2rem;
+    border-radius: 3rem;
+    background-color: red;
+    color: white;
+    border: 0rem;
+}
+.button{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+.icon{
+    color:red;
+    border-radius: 100%;
+    padding:1rem;
+    background-color: white;
+}
+.image{
+    width: 100%
+}
+.head{
+    color: #ffffff;
+    font-size: 3rem;
+    text-align: center;
+}
+#name{
+    font-size: 6rem;
+}
+.para{
+    color: #a7afaf;
+    font-size:2rem; 
+    text-align: center;
+}
+#section-one{
+    display: flex;
+    justify-content: space-evenly;
+}
+.s-1{
+    background-color: #ffffff;
+    width: 30rem;
+    height:18rem ;
+}
+.button-one{
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 3rem;
+    padding: 1.5rem 2rem;
+}
+.button-section{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    gap: 23rem;
+}
+.section-two{
+     width: 100%;
+     background-color: #0f0f0f;
+     margin-top: 2rem;
+}
+.sub-section-two{
+    width: 100%;
+    height:40rem ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.sub-section-two-1{
+    width: 50%;
+    height: 60rem;
+    margin-top: 20rem;
+    padding-left: 3rem;
+}
+.city{
+    color: red;
+    font-size: 2rem;
+}
+.branche{
+    width: 80%;
+    margin:3rem 2rem; 
+}
+.button-two{
+    padding:2rem 3.5rem;
+    color:white;
+    background-color :black;
+    border-radius: 3rem;
+    border: 1px solid white;
+    font-size: 2rem;
+}
+#section-1{
+    width: 25%;
+    height: 20rem;
+    display: flex;
+    justify-content: space-between;
+}
+#part-1{
+    display: flex;
+    justify-content: space-around;
+}
+.para-1{
+    color: #a7afaf;
+    font-size:2rem; 
+}
+.s-2{
+    background-color: #ffffff;
+    width: 30rem;
+    height:35rem ;
+}
+#section-three{
+    width: 100%;
+    background-color: #0f0f0f;
+    height:60rem ;
+}
+.s-3{
+    width: 50rem;
+}
+.button-three{
+    color:white;
+    background-color:lightgreen; 
+    border: 1px solid black;
+    padding: 1.5rem 2rem;
+    border-radius:3rem; 
+    font-size: 2rem;
+}
+#location{
+    display: flex;
+    justify-content:space-evenly;
+}
+.location{
+    background-color:white;
+    width: 30%;
+}
+#images{
+    display: flex;
+    justify-content:center;
+    margin-left: 12rem;
+}
+.head-1{
+    font-size: 3rem;
+    display:flex; 
+    justify-content: center;
+}
+.open{
+    color: red;
+    display: flex;
+    justify-content:center ;
+    font-size: 2rem;
+}
+#names{
+    font-size: 4rem;
+}
+#head-2{
+    color: grey;
+}
+#location-1{
+    display:  flex;
+    justify-content: center;
+}
+#head-2{
+    color: grey;
+    display: flex;
+    justify-content: center;
+}
+#section-last{
+    width: 100%;
+    display:flex;
+    justify-content: space-around ;
+    gap: 2.5rem;
+}
+.s-4{
+    width: 98%;
+}
+#footer-container{
+    margin-top: 30rem;
+    width: 100%;
+    background-color: #0f0f0f;
+    display: flex;
+    justify-content: space-around;
+}
+.footer-container-one{
+    display: flex;
+    flex-direction:column ;
+    align-items: start;
+}
+.para-text{
+    margin-top:2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 2rem;
+    color: #a7afaf;
+}
+.footer-container-two{
+    margin-top:7rem;
+    display: flex;
+    justify-content:center ;
+}
+.footer-para{
+    color: grey;
+    font-size: 2rem;
+}
+.footer-list{
+    list-style-type:none; 
+}
+.icons{
+    background-color: red;
+    color: white;
+    padding: 2rem 2rem;
+    border: 0px;
+    font-size: 2rem;
+    border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
